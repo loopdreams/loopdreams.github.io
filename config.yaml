@@ -1,4 +1,4 @@
-baseURL: "/"
+baseURL: "https://loopdreams.github.io"
 languageCode: "en-us"
 title: "Resume | Eoin Carney"
 disableKinds: ["taxonomy", "term", "page", "section", "RSS", "sitemap", "robotsTXT", "404"]
