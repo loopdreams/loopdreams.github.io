@@ -1,6 +1,0 @@
-{{ $markdown := . | markdownify }}
-{{ if strings.Contains $markdown "<p>" }}
-	{{ $markdown }}
-{{ else }}
-	<p>{{ $markdown }}</p>
-{{ end }}
